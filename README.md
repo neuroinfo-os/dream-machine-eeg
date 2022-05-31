@@ -1,5 +1,5 @@
 # Dream Machine
-The Dream Machine, formerly known as Traumschreiber, is a lightweight, low-cost, mobile EEG device developed at the Neuroinforamtics group at Osnabrück University. This repository contains all affiliated projects and theses.
+The Dream Machine, formerly known as *Traumschreiber*, is a lightweight, low-cost, mobile EEG device developed at the Neuroinforamtics group at Osnabrück University. This repository contains all affiliated projects and theses.
 
 ### This includes:
 - The Printed Circuit Board (PCB) design of the latest version and a collection of operation manuals of the most important hardware components

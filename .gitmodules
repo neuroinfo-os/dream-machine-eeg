@@ -1,0 +1,6 @@
+[submodule "EEG-Droid"]
+	path = EEG-Droid
+	url = https://github.com/denizmgun/EEG-Droid
+[submodule "DreamMachineThesisMod"]
+	path = DreamMachineThesisMod
+	url = https://github.com/denizmgun/DreamMachineThesisMod

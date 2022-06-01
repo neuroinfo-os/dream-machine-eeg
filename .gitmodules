@@ -4,3 +4,6 @@
 [submodule "DreamMachineThesisMod"]
 	path = DreamMachineThesisMod
 	url = https://github.com/denizmgun/DreamMachineThesisMod
+[submodule "pylsl-keyboard-trigger"]
+	path = pylsl-keyboard-trigger
+	url = https://github.com/mvidaldp/pylsl-keyboard-trigger.git
